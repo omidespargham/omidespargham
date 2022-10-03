@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there,its Omid SP👋
 
-<!--
-**omidespargham/omidespargham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am Backend Developer and i have 1+ year of experience
 
-Here are some ideas to get you started:
+* Email : omidesparghamofficial@gmail.com
+* phone : 09053172724
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on cmsbime
+- 🌱 I’m currently learning, DRF and ...
+- 👯 I’m looking to collaborate on [@AmirArsalan3602](https://github.com/AmirArsalan3602)
+
+
+
+
+### ⚙️ Technologies that I am skilled in:
+``` python
+my_skills = [
+  'Python',
+  'Django',
+  'Django Rest Framework',
+  'Json Web Token (JWT)',
+  'ِDocker',
+  'PostgreSQL',
+  'HTML5/CSS3/JAVASCRIPT',
+  'ReactJS',
+]
+```
