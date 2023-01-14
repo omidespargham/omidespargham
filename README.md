@@ -6,14 +6,14 @@ i am Backend Developer and i have 3+ year of experience
 * phone : 09053172724
 
 - 🔭 I’m currently working on 
-🌱🔭
-🌱🔭
-🌱🔭
-https://shopdomain.ir/
-https://www.jiliz.ir/
-🌱🔭
-🌱🔭
-🌱🔭
+- 🌱🔭
+- 🌱🔭
+- 🌱🔭
+- https://shopdomain.ir/
+- https://www.jiliz.ir/
+- 🌱🔭
+- 🌱🔭
+- 🌱🔭
 - I’m currently learning, DRF and ...
 - 👯 I’m looking to collaborate on [@AmirArsalan3602](https://github.com/AmirArsalan3602)
 
